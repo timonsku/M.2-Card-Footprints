@@ -1,5 +1,7 @@
 # M.2-Card-Footprints
 
+![preview](preview.png)
+
 The footprints were created in Eagle. The KiCad versions are imports, they are looking good but you might want to look for quirks.
 
 The only footprint that has been verified with a PCB is the B+M footprint though they all derive from the blank key footprint.
